@@ -1,0 +1,12 @@
+In this project, I want to create a flight computer that would be suitable for gathering flight data on amateur model rockets. I want to meet the following criteria:
+    • A Raspberry Pi Pico microcontroller to gather and control data.
+    • A GPS module to obtain live location for aid in recovery and recording apogee
+    • An accelerometer to log speed, g-force, acceleration, rotation
+    • A power source that can supply idle power for >1.5 hours and supply full power use for >25 minutes.
+    • A method of actively transmitting data to a laptop and receiving instructions
+    • A button to activate / deactivate power
+    • Assembled into one combined structure
+
+I plan to first make a prototype with basic functionality, and to improve upon my design from there. 
+After I create the prototype, I will likely change design prospects based on difficulties, new information, and limitations.
+I will have separate directories in this github repository for each different leg of the project and I’ll create notes/logs for the development process in each as well.
